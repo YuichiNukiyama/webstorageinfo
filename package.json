@@ -1,0 +1,32 @@
+﻿{
+    "name": "webstorageinfo",
+    "title": "webstorageinfo",
+		"description": "Show Data of WebStorage"
+    "version": "0.8.0",
+		"homepage": "https://github.com/YuichiNukiyama/webstorageinfo",
+    "author": {
+			"name": "Yuichi Nukiyama"
+    },
+    "dependencies": {
+      "jquery": ">=2.1.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/YuichiNukiyama/webstorageinfo"
+    },
+    "licenses": [ {
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/mit-license.php"
+		} ],
+    "files": [ 
+			"Script",
+			"Demo"
+		],
+    "keywords": [ 
+			"WebStorage",
+			"LocalStorage",
+			"SessionStorage",
+			"debug",
+			"jquery-plugin"
+		]
+}
