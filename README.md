@@ -22,8 +22,7 @@ That's  all.
 jQueryライブラリとwebstorageinfoを用意して
 $().webStorageInfo() を呼び出すだけです。
 
-###install（インストール）
-now under construction
+###Install（インストール）
 
 ```
 npm install webstorageinfo
